@@ -14,3 +14,6 @@
 ( 0 )"""\
 |"^"`    |
 ||_/=\\__|
+
+문제링크
+https://www.acmicpc.net/problem/10172
