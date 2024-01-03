@@ -10,7 +10,7 @@ public class Main {
 				H = 23;
 				M = M+15;
 			}
-			else if(M == 45) M = 0;
+			else if(M == 45) M = 0; // 사실상 필요 없는 코드
 			else M = M-45;
 		}
 		else if( H != 0) {
@@ -18,7 +18,7 @@ public class Main {
 				H = H-1;
 				M = M+15;
 			}
-			else if(M == 45) M = 0;
+			else if(M == 45) M = 0; // 사실상 필요 없는 코드
 			else M = M-45;
 		}
 		System.out.println(H + " " + M);
