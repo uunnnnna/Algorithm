@@ -10,5 +10,11 @@
 각 테스트 케이스마다 A+B를 출력한다.
 
 - 틀린이유
-- while(true)를 썼다. hasNextInt를 써서 맞췄는데 이유를 모르겠따. 내일 다시 공부 ㄱ
-  
+- while(true)를 썼다. hasNextInt를 써서 맞췄ek
+
+hasNext() 
+- boolean 타입으로 반환
+- True, False
+
+next()
+- iterator의 다음 요소 값 반환 / 아무 타입 가능
